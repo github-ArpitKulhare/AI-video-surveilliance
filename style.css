@@ -1,0 +1,28 @@
+body 
+{
+    background-size: cover;
+}
+
+#Heading
+{
+    margin-top: 0;
+    font-size: 25px;
+    width: 100%;
+}
+
+#status, #start, #no._objects 
+{
+    font-size: 20px;
+}
+
+.copy_right_footer
+{
+    width: 100%;
+    color: cyan;
+    background-color: navy;
+    bottom: 0;
+    height: 50px;
+    position: fixed;
+    text-align: center;
+    font-size: 25px;
+}
